@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="3386-git-github-projeto_inicial/img/avatar-barbs.jpegavatar-barbs.jpeg" width=115><br><sub>Bárbara Azevedo</sub>](https://github.com/barbaramazevedo) 
-| :---: | :---: |
+| [<img loading="lazy" src="3386-git-github-projeto_inicial/img/avatar-barbs.jpegavatar-barbs.jpeg" width=115><br><sub>Bárbara Azevedo</sub>](https://github.com/barbaramazevedo) |
+| :---: |
